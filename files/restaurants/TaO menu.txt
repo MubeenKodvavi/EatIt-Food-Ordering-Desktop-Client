@@ -1,0 +1,17 @@
+Chicken and noodle soup_200.00
+Chicken and mushroom soup_180.00
+Cream of chicken soup_200.00
+Tom Yum seafood soup_260.00
+Prawn cocktail_400.00
+Chicken wings_300.00
+Prawn sticks_400.00
+Mutton ribs with honey and lemon_600.00
+Tiger prawns_800.00
+Cooked Lobster_600.00
+Beef Dumpling_300.00
+Crab Claws_350.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00
+fried rice_250.00

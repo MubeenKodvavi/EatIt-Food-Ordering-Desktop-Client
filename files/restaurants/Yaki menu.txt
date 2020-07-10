@@ -1,0 +1,14 @@
+Chicken Skewer_400.00
+Mutton Skewer_450.00
+Prawn Skewer_500.00
+Sushi rolls_400.00
+Sushi noodles_450.00
+Chicken dumplings_300.00
+Chicken and noodle soup_200.00
+Chicken and mushroom soup_180.00
+Cream of chicken soup_200.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00
+fried rice_250.00

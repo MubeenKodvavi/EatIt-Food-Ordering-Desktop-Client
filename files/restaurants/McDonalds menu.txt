@@ -1,0 +1,19 @@
+Beef Burger_120.00
+Cheese Burger_130.00
+Spicy Chicken_200.00
+Fillet O Fish_350.00
+Spicy Chicken Burger_200.00
+Big Mac_320.00
+McNuggets_300.00
+McWings_250.00
+McMuffin_100.00
+McChicken_150.00
+McWrap_180.00
+McFries_150.00
+McDouble Beef_200.00
+McFlurry Oreo_130.00
+McFlurry Strawberry_110.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

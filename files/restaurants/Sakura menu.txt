@@ -1,0 +1,17 @@
+Chicken and noodle soup_200.00
+Chicken and mushroom soup_180.00
+Cream of chicken soup_200.00
+Chicken corn soup_200.00
+Prawn rolls_400.00
+sushi rolls_400.00
+Prawn sticks_350.00
+Chicken katsu don_600.00
+king prawns_700.00
+Teriyaki chicken_600.00
+Teriyaki Beef_700.00
+Unagi Don_450.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00
+Fried rice_250.00

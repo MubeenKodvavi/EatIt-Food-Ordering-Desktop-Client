@@ -1,0 +1,22 @@
+Chicken haleem_130.00
+Beef haleem_120.00
+Chicken karahi(half)_400.00
+Chicken karahi(full)_800.00
+Mutton karahi_1000.00
+Chicken Tikka_160.00
+Chicken Biryani_140.00
+Mutton Biryani_180.00
+Bun Kabab_50.00
+Seekh Kabab_180.00
+Chicken Boti_190.00
+Beef Boti_180.00
+Reshmi Kabab_220.00
+Aloo Biryani_100.00
+Poori Paratha_40.00
+Nan_10.00
+Kheer_60.00
+Doodh dulari_80.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

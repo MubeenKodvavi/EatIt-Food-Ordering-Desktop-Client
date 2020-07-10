@@ -1,0 +1,18 @@
+Chatpata Chicken_150.00
+Big King_300.00
+Chick Crisp_320.00
+Whopper_250.00
+Steak Whopper_300.00
+Double Whopper_400.00
+Triple Whopper_550.00
+Buffalo Chicken_300.00
+Super Star_320.00
+Chicken Sub_120.00
+Small Fries_130.00
+Large Fries_200.00
+Chicken Fries_300.00
+Beef Steak Burger_350.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

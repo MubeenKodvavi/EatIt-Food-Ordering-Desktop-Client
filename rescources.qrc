@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/FULL LOGO.png</file>
+        <file>img/logo.png</file>
+        <file>icons/desi.png</file>
+        <file>icons/fast food.png</file>
+        <file>icons/pizza.png</file>
+        <file>icons/bbq.png</file>
+        <file>icons/ice cream.png</file>
+        <file>icons/sweets.png</file>
+        <file>icons/chinese.png</file>
+        <file>icons/japanese.png</file>
+        <file>logos/BarBQ Tonight.png</file>
+        <file>logos/Bonsai.png</file>
+        <file>logos/Broadway Pizza.png</file>
+        <file>logos/Burger King.png</file>
+        <file>logos/Burger o Clock.png</file>
+        <file>logos/California Pizza.png</file>
+        <file>logos/Chop Soy.png</file>
+        <file>logos/Dominoes.png</file>
+        <file>logos/Dynasty.png</file>
+        <file>logos/Ginsoy.png</file>
+        <file>logos/Karachi Haleem.png</file>
+        <file>logos/KFC.png</file>
+        <file>logos/Kolachi.png</file>
+        <file>logos/McDonalds.png</file>
+        <file>logos/Miyako.png</file>
+        <file>logos/Oishi Sushi.png</file>
+        <file>logos/Pizza Hut.png</file>
+        <file>logos/Pizza One.png</file>
+        <file>logos/Sakura.png</file>
+        <file>logos/Student Biryani.png</file>
+        <file>logos/Subway.png</file>
+        <file>logos/TaO.png</file>
+        <file>logos/Yaki.png</file>
+        <file>logos/Zahid Nihari.png</file>
+        <file>logos/Bambou.png</file>
+    </qresource>
+</RCC>

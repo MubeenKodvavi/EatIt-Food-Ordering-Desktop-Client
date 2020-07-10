@@ -1,0 +1,13 @@
+fried prawns_500.00
+fried rice_300.00
+chicken corn soup_100.00
+chicken corn soup(bowl)_450.00
+hot and sour soup_90.00
+hot and sour soup(bowl)_390.00
+Chicken Sizzler_250.00
+Chicken Shashlick_300.00
+Chicken pineapple_330.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

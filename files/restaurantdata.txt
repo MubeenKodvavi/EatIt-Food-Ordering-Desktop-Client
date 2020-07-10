@@ -1,0 +1,25 @@
+KFC_KFC_Fast Food
+McDonalds_McDonalds_Fast Food
+Burger King_Burger_Fast Food
+Burger o Clock_Burger_Fast Food
+Subway_Subway_Fast Food
+Student Biryani_Student_Desi
+Karachi Haleem_Karachi_Desi
+Zahid Nihari_Nihari_Desi
+Kolachi_Kolachi_Desi
+BarBQ Tonight_Tonight_Desi
+Ginsoy_Ginsoy_Chinese
+Bambou_Bambou_Chinese
+Bonsai_Bonsai_Chinese
+Chop Soy_Chop_Chinese
+Dynasty_Dynasty_Chinese
+Pizza Hut_Pizza_Pizza
+Dominoes_Domino_Pizza
+Broadway Pizza_Broadway_Pizza
+California Pizza_California_Pizza
+Pizza One_Pizza_Pizza
+TaO_TaO_Japanese
+Sakura_Sakura_Japanese
+Yaki_Yaki_Japanese
+Miyako_Miyako_Japanese
+Oishi Sushi_Oishi_Japanese

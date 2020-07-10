@@ -1,0 +1,19 @@
+Chicken Karahi(half)_400.00
+Chicken Karahi(full)_800.00
+Mutton Karahi_1100.00
+Chicken Tikka_130.00
+Fish Tikka_180.00
+Seekh Kabab_220.00
+Reshmi Kaba_240.00
+Malai boti_180.00
+Bihari Kabab_230.00
+Bihari boti_200.00
+White Karahi_500.00
+Egg fried rice_200.00
+fried fish_300.00
+Nan_10.00
+Poori paratha_40.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

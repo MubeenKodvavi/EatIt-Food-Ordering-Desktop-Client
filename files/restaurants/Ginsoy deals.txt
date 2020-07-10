@@ -1,0 +1,4 @@
+prawns +rice_750.00
+chicken sizzler dinner(chicken sizzler+fried rice +chicken corn soup)_600.00
+chicken shashlik dinner(chicken shashlik+fried rice +chicken corn soup)_620.00
+chicken pineapple dinner(chicken pineapple+fried rice +chicken corn soup)_650.00

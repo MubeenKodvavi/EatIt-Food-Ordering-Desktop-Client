@@ -1,0 +1,18 @@
+Cheese Chicken Burger_200.00
+Cheese Beef Burger_250.00
+Chicken Steak Burger_300.00
+Chicken Cheese Steak Burger_350.00
+Beef Steak Burger_400.00
+Beef Cheese Steak Burger_450.00
+Jalapeno Burger_350.00
+Messy Meat_400.00
+Beef Stacker_550.00
+Chicken Stacker_450.00
+Veg Burger_220.00
+Shawarma Burger_200.00
+Animal Fries_250.00
+Regular Fries_180.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

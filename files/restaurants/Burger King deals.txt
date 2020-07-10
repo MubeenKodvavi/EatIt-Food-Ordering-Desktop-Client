@@ -1,0 +1,4 @@
+Whoppers(All Whoppers)_1400.00
+Beef Overload(All Beef)_1200.00
+Chick Overload(All Chicken)_1800.00
+Beef + Chick(Beef Steak Burger+Chick Crisp)_600.00

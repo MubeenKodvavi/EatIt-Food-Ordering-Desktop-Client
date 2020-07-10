@@ -1,0 +1,22 @@
+Zinger Burger_350.00
+Crunch Burger_300.00
+Mighty Zinger_500.00
+Small Fries_120.00
+Large Fries_180.00
+Fried Chicken(2 pcs)_250.00
+Rice and Spice_200.00
+Zinger Strips_100.00
+Hot Shots_100.00
+Nuggets_300.00
+Hot wings_400.00
+Arabian Rice_130.00
+Corn on the cob_100.00
+Stacker_450.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00
+ZINGER_320
+Cheese Burger_200
+Cheese Sandwich_100
+chicken_590

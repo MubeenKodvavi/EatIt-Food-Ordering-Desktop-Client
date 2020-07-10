@@ -1,0 +1,20 @@
+Single Chicken Biryani_150.00
+Double Chicken Biryani_270.00
+Tikka Biryani_240.00
+Single Mutton Biryani_200.00
+Double Mutton Biryani_350.00
+Single Beef Biryani_220.00
+Double Beef Biryani_400.00
+Chicken Qorma_500.00
+Naan_10.00
+Chapati_9.00
+Chicken Tikka_150.00
+Seekh Kabab_200.00
+Chicken Boti_180.00
+Beef Boti_170.00
+Reshmi Kabab_220.00
+Lassi(sweet)_60.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

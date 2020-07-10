@@ -1,0 +1,15 @@
+6 inch chicken sub_200.00
+12 inch chicken sub_350.00
+6 inch turkey sub_300.00
+12 inch turkey sub_500.00
+6 inch beef sub_250.00
+12 inch beef sub_400.00
+Spicy chicken sub_250.00
+Spicy turkey sub_400.00
+Spicy beef sub_300.00
+Chocolate chip cookies_300.00
+Blueberry cookies_340.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00

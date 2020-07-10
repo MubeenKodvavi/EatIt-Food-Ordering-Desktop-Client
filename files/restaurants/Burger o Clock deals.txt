@@ -1,0 +1,3 @@
+Chicken stack(All Chicken)_1200.00
+Beef stack(All Beef)_1400.00
+Beef + Chicken(2 beef, 2 Chicken)_1000.00

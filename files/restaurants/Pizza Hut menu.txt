@@ -1,0 +1,11 @@
+Small Pizza_220.00
+Medium Pizza_550.00
+Large Pizza_800.00
+Baked Potatoe_200.00
+Chicken Wings_300.00
+Garlic bread_120.00
+Cheese Garlic bread_180.00
+Soft drink(1.5 l)_100.00
+Soft drink(0.5 l)_50.00
+Mineral Water(1.5 l)_60.00
+Mineral Water(0.5 l)_20.00
